@@ -1,11 +1,24 @@
-# main-project-team-52
+# Guitar Tuner
 
-Audio recorder
+A CS222 team project at UIUC exploring a web-based guitar tuner and audio recorder.
+
+## Features
+
+- Note selection and target-frequency display.
+- Pitch comparison interface.
+- Browser microphone access and audio recording.
+- Flask endpoints for file handling.
+
+## Stack
+
+Next.js · TypeScript · Flask · Web Audio API
+
+## Audio recorder
 ```
 npx shadcn@latest add card
 ```
 
-Tuner app
+## Tuner app
 
 To start front end
 ```
