@@ -27,19 +27,6 @@ npx shadcn@latest add card
 
 ## Tuner app
 
-To start front end
-```
-cd front-end
-cd my-tuner-app
-npm install
-npm run dev
-```
-To run the back end 
-```
-cd back-end
-flask run app.py
-```
-
 Front end components: 
 src/app/tuner/ : 
 
