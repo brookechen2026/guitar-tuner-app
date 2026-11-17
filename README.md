@@ -9,8 +9,6 @@ A CS222 team project at UIUC exploring a web guitar tuner and audio recorder.
   <img src="docs/images/audio-recorder.jpg" alt="Audio recorder and playback interface" width="440" />
 </p>
 
-*Running prototype interfaces. The tuner currently uses a placeholder pitch value; microphone recording was not enabled for these screenshots.*
-
 ## Features
 
 - Note selection and target-frequency display.
