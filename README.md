@@ -1,6 +1,6 @@
 # Guitar Tuner
 
-A CS222 team project at UIUC exploring a web-based guitar tuner and audio recorder.
+A CS222 team project at UIUC exploring a web guitar tuner and audio recorder.
 
 ## Overview
 
